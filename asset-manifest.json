@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shg_app/static/css/main.f855e6bc.css",
+    "main.js": "/shg_app/static/js/main.03462aed.js",
+    "static/js/787.ff0f2f68.chunk.js": "/shg_app/static/js/787.ff0f2f68.chunk.js",
+    "static/media/logo.svg": "/shg_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shg_app/index.html",
+    "main.f855e6bc.css.map": "/shg_app/static/css/main.f855e6bc.css.map",
+    "main.03462aed.js.map": "/shg_app/static/js/main.03462aed.js.map",
+    "787.ff0f2f68.chunk.js.map": "/shg_app/static/js/787.ff0f2f68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.03462aed.js"
+  ]
+}
